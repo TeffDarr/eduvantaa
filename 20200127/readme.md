@@ -14,8 +14,8 @@
 
 # Ketterä ohjelmistokehityksessä
 
-* * Asiakastyytyväisyys on tärkein tehtävä, koska asiakkaan tyytyväisyys saa heidät käyttäämään toimiamme uudelleen.
-* * Muutosten hyväksyntä on tärkeää, koska ohjelmistot muuttutvat koko ajan.
-* * Toimiva sovellus on olennainen, koska muuten kukaan ei varmaankaan käyttäisi sitä...
-* * Itse tarkastelu on järkevää, koska siten voit olla varma, että kaikki toimii niinkuin pitäisi.
-* * Tiivis yhteistyö on todella hyvä, koska työt saa tehtyä paremmin ja nopeammin.
+* Asiakastyytyväisyys on tärkein tehtävä, koska asiakkaan tyytyväisyys saa heidät käyttäämään toimiamme uudelleen.
+* Muutosten hyväksyntä on tärkeää, koska ohjelmistot muuttutvat koko ajan.
+* Toimiva sovellus on olennainen, koska muuten kukaan ei varmaankaan käyttäisi sitä...
+* Itse tarkastelu on järkevää, koska siten voit olla varma, että kaikki toimii niinkuin pitäisi.
+* Tiivis yhteistyö on todella hyvä, koska työt saa tehtyä paremmin ja nopeammin.
