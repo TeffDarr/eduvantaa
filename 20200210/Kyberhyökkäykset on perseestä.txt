@@ -1,0 +1,47 @@
+1. Kansakuntien osallistuminen kasvaa yleisemmäksi.
+
+	Rikolliset alkavat lisäämään heidän kyberhyökkäyksiä.
+
+2. IoT-laitteiden hyökkäys on todellinen huolen aihe.
+
+	Mahdollisuudet kenen tahansa katsovan sinua sinun laitteesi kamerasta on täysin mahdollista.
+
+3. Air-Gappin ei vieläkään ole olemassa.
+
+	Teoriassa Air-Gapped netti on fyysisesti eristetty muusta maailmasta, tehden siitä immuunin hyökkäyksille.
+
+4. Vihreän energian pimeä puoli on kybersuoja.
+
+	Yhdysvaltojen sähköverkko on haavoittuva kyberhyökkäyksille.
+
+5. Kansainväliset valtiot kohdistavat yhä enemmän kriittisiä infrastruktuureja.
+
+	Kybersota ei ole uusi, mutta kansallisvaltiot näyttävät lisäävän ponnistelujaan kilpailijoiden teollisuuden valvontajärjestelmien ja kriittisen infrastruktuurin kohdistamiseksi
+
+6. Kyberhyökkäykset auttavat eristettyjä maita.
+
+	Herra Trumpetti lajoi 4 biljoonaa dollaria lempi valtiolleen parantaakseen niiden kyber turvaa.
+
+7. Yksikin kyberhyökkäys voi aiheuttaa satojenmiljoonien dollarien edestä vahinkoa.
+
+	Ihan saatan kallista korjata tilanne kyberhyökkäysten jälkeen.
+
+8. Kriisin pitäisi olla herätys.
+
+	Runkkarit jotka hyökkäsivät käyttivät kalastusta ja vesi-reikä-päämajaa heidän uhreja vastaan.
+
+9. Kriittisten infrastruktuurin kampanjat ovat nousemassa.
+
+	Kasvavat numerot idiooteista jotka tykkäävät hakkeroida alkavat tähtäämään infrastruktuureihin.
+
+10. Kiristysohjelmalla on mahodollisuus kohdistaa IoT-laitteita.
+
+	Jonkun Bortin mukaan autot alkavat pyytämään kolmea bitkolikkea käynnistyäkseen.
+
+11. Yhdistyneessä maailmassa tavarantoimittajat ovat os riskiä.
+
+	Bortti on hajamielinen ja väittää kaiken laista.
+
+12. Sinun tietosi lissäntyvät. Niin sitä myydään.
+
+	Bortti jauhaa lisää paskaa ja autovalmistajat alkavatkäyttämään samanlaisia taktiikoita kuin ylemmän rivin kohdassa lukee.
