@@ -1,0 +1,12 @@
+1. Viimeisimmät 10 vuotta ovat ollet räjähdys koneopille. Asiantuntijat uskovat koneopin vaikuttavan moniin asioihimme tulevina vuosina.
+2. Seuraavien muutaman vuoden aikana NVMe SSD aikoo korvata SATA ja SAS SSD. MRAM, ReRAM ja PCM aikoo tarjota paljon parempaa tehoa NVMe laitteisiin.
+3. Digitaaliset kaksoset ovat todellisuus teollisuudessa. Kognitiiviset digitaaliset kaksoset ovat vielä niiden alku vaiheilla.
+4. Tekoälyä aletaan käyttämään useammissa laitteissa. Viiden vuoden sisällä tulee olemaan suht iso lisä terveys aplikaatioissa.
+5. Kuljetus dronet voivat vielä olla hieman turhauttavia ja tuhlaavia. Monet yritykset ovat työskennelleet kuljetus dronien kanssa. 
+6. Tällä hetkel kaiken maailman uudet vempaimet ja härpättimet tuovat 3D tulostuksen teollisuuden maailmaan. Tänä vuonna asiantuntijat uskovat näkevänsä tämän trendin jatkuvan.
+7. Robotit jakaantuvat lisää ja lisää teollisuudesta avaruuteen. Asiantuntijat uskovat, että simulaatiot, syvä opiskelu ja konenäkö aikoo nostaa robottien kognitiivisen tason, mikä parantaa paljon seuraavan muutaman vuoden sisällä.
+8. Kyberturva on kaikkien bisenessmiehien pahin pelko. AI/ML voi auttaa tunnistamaan uhkia ja tarjoamaan suosituksia turvallisuuden analysointiin.
+9 Tietojen keräily on tulossa paljon herkemmäksi. Ensi vuosi tulee todistumaan kriittisemmäksi ylläpitämään tekno logian sosiaalisia hyötyjä.
+10. ML(Machine Learning) olettaa yleensä, että ympäristö ei ole manipuloitu haitallisesti koulutuksen aikana. Turvallisuustutkimus kilpailevasta koneoppimisesta ja vastatoimista tähdätään koneoppien manipuloinnin tutkimiseen.
+11. Älykkäät järjestelmät, jotka pystyvät tekemään itsenäisiä päätöksiä, ovat houkuttelevia kasvaville investoijille nykyään. Autonomisten älyjärjestelmien luotettavuus on yksi suuring teknologian haaste johon on vastattava vuoteen 2020 menessä. 
+12. Kvantti tietokoneiden käytännön tavoittelun etenee vuonna 2020. Jos kvantitietokoneiden on tarkoitus menestyä, se tapahtuu lisäämällä osuvuutta ja yleisyyttä.
